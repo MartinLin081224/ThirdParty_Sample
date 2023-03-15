@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ThirdParty_Sample</string>
-    <string name="MID">1000139</string>
-    <string name="APPID">9000010202</string>
-    <string name="TradeToken">E603C80A297F4C8A907C1920DCD35139</string>
+    <string name="MID">2022471</string>
+    <string name="APPID"></string>
+    <string name="TradeToken">D5A1D552D1344983A51F68C1FB3FF68A</string>
     <string name="allpay_app_scheme">opay://checkout</string>
 </resources>
